@@ -6,7 +6,7 @@ Soy un estudiante apasionado por el desarrollo de software, con habilidades en *
 
 - **Lenguajes de Programación:** Python, HTML, CSS, Java (básico)
 - **Bases de Datos:** MySQL
-- **Herramientas:** NetBeans
+- **Herramientas:** NetBeans, VsCode
 - **Idiomas:** Inglés (B1-B2)
 
 ### Repositorios Destacados 🌟
