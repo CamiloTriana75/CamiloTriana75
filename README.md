@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sobre Mí 🧑‍💻
 
-<!--
-**CamiloTriana75/CamiloTriana75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software con habilidades en **HTML**, **CSS** y **Python**, especializado en el manejo de bases de datos **MySQL**. Mis proyectos demuestran mi capacidad para crear soluciones web eficientes y administrar datos de manera efectiva. Siempre estoy dispuesto a aprender y contribuir en proyectos de código abierto.
 
-Here are some ideas to get you started:
+### Habilidades Técnicas 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes de Programación:** Python, HTML, CSS
+- **Bases de Datos:** MySQL
+- **Idiomas:** Inglés (B1-B2)
+
+### Repositorios Destacados 🌟
+
+- **[Juego de la Culebrita](enlace-al-repositorio):** Pequeña base del clásico juego de la culebrita, implementado en Python.
