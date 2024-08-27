@@ -12,7 +12,6 @@ Soy un estudiante apasionado por el desarrollo de software, con habilidades en *
 ### Repositorios Destacados 🌟
 
 - **[Juego de la Culebrita](enlace-al-repositorio):** Pequeña base del clásico juego de la culebrita, implementado en Python.
-- **[Nombre del Proyecto 2](enlace-al-repositorio):** Breve descripción del proyecto y su objetivo.
 
 ### Intereses 🎯
 
