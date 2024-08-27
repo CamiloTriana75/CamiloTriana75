@@ -11,7 +11,7 @@ Soy un estudiante apasionado por el desarrollo de software, con habilidades en *
 
 ### Repositorios Destacados 🌟
 
-- **[Juego de la Culebrita](enlace-al-repositorio):** Pequeña base del clásico juego de la culebrita, implementado en Python.
+- **[Juego de la Culebrita](https://github.com/CamiloTriana75/Project):** Pequeña base del clásico juego de la culebrita, implementado en Python.
 
 ### Intereses 🎯
 
