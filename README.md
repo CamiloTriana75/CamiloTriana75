@@ -11,7 +11,8 @@
 🇨🇴 I'm a passionate Colombian developer focused on building useful, real-world apps.  
 🎓 I'm currently studying software development and working on tools for business automation and process optimization.  
 🛠️ I love using technology to solve problems and make systems smarter.  
-🌱 Learning every day about full stack development, DevOps and artificial intelligence.
+🌱 Learning every day about full stack development, DevOps and artificial intelligence.  
+⚡ Experienced in automating deployments with GitHub + Netlify, applying CI/CD practices to streamline delivery.
 
 ---
 
@@ -37,10 +38,11 @@
 
 ## 🛠️ Tech Stack
 
-- 👨‍💻 **Languages**: JavaScript, TypeScript, Python, C#, Java, HTML/CSS
-- ⚙️ **Frameworks**: React, Node.js, Express, TailwindCSS
-- 🗃️ **Databases**: Firebase, SQLite, PostgreSQL
-- 🧰 **Tools**: Git, Docker, Linux, Vite, NetBeans, Visual Studio, Figma
+- 👨‍💻 **Languages**: JavaScript, TypeScript, Python, C#, Java, HTML/CSS  
+- ⚙️ **Frameworks**: React, Node.js, Express, TailwindCSS  
+- 🗃️ **Databases**: Firebase, SQLite, PostgreSQL  
+- 🧰 **Tools**: Git, Docker, Linux, Vite, NetBeans, Visual Studio, Figma  
+- 🚀 **Deployment & CI/CD**: GitHub + Netlify (automated builds and deployments from repositories)
 
 ---
 
@@ -49,26 +51,26 @@
 - 🧠 AI integration in business tools  
 - 🧾 Business process automation  
 - 🕹️ App development (web & desktop)  
-- 🔧 Building real solutions through software
+- 🔧 Building real solutions through software  
+- ⚡ Continuous Integration / Continuous Deployment (CI/CD) to automate delivery pipelines  
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Portfolio (coming soon)
-- 🐙 GitHub: [@camilotriana](https://github.com/camilotriana)
-- 📧 Email: jtriaha@gmail.com
+- 🌐 Portfolio (coming soon)  
+- 🐙 GitHub: [@camilotriana](https://github.com/camilotriana)  
+- 📧 Email: jtriaha@gmail.com  
 
 ---
-
-
 
 ### 👋 Hola, soy Camilo Triana
 
 🎓 Soy estudiante de desarrollo de software con enfoque en automatización, backend y herramientas de negocio.  
 🔧 Me encanta desarrollar soluciones reales con impacto práctico.  
 🌱 Siempre estoy aprendiendo más sobre desarrollo full stack, DevOps e inteligencia artificial.  
-🤝 Actualmente colaboro en proyectos reales y código abierto.
+🤝 Actualmente colaboro en proyectos reales y código abierto.  
+⚡ Experiencia aplicando CI/CD con GitHub + Netlify para automatizar despliegues de proyectos.
 
 ---
 
@@ -77,7 +79,7 @@
 - **ProyectoElden**: Sistema de reservas deportivas en tiempo real con React + Firebase  
 - **Nómina Empleados**: Calculadora de nómina simple usando Java y Swing  
 - **Juego Snake**: Juego clásico de Snake hecho en Python  
-- **Serie de Taylor y McLaurin**: Página web educativa para calcular series matemáticas
+- **Serie de Taylor y McLaurin**: Página web educativa para calcular series matemáticas  
 
 ---
 
@@ -86,7 +88,8 @@
 - Automatización de procesos empresariales  
 - Desarrollo full stack con herramientas modernas  
 - Integración de IA en sistemas reales  
-- Aplicaciones educativas y de gestión
+- Aplicaciones educativas y de gestión  
+- Despliegues automatizados (CI/CD) con GitHub + Netlify  
 
 ---
 
