@@ -12,7 +12,8 @@
 🎓 I'm currently studying software development and working on tools for business automation and process optimization.  
 🛠️ I love using technology to solve problems and make systems smarter.  
 🌱 Learning every day about full stack development, DevOps and artificial intelligence.  
-⚡ Experienced in automating deployments with GitHub + Netlify, applying CI/CD practices to streamline delivery.
+⚡ Experienced in automating deployments with GitHub + Netlify, applying CI/CD practices to streamline delivery.  
+🔎 Skilled in testing and documenting APIs using Postman for endpoints validation and workflow automation.  
 
 ---
 
@@ -41,7 +42,7 @@
 - 👨‍💻 **Languages**: JavaScript, TypeScript, Python, C#, Java, HTML/CSS  
 - ⚙️ **Frameworks**: React, Node.js, Express, TailwindCSS  
 - 🗃️ **Databases**: Firebase, SQLite, PostgreSQL  
-- 🧰 **Tools**: Git, Docker, Linux, Vite, NetBeans, Visual Studio, Figma  
+- 🧰 **Tools**: Git, Docker, Linux, Vite, NetBeans, Visual Studio, Figma, **Postman**  
 - 🚀 **Deployment & CI/CD**: GitHub + Netlify (automated builds and deployments from repositories)
 
 ---
@@ -53,6 +54,7 @@
 - 🕹️ App development (web & desktop)  
 - 🔧 Building real solutions through software  
 - ⚡ Continuous Integration / Continuous Deployment (CI/CD) to automate delivery pipelines  
+- 🔎 API testing, validation and documentation with Postman  
 
 ---
 
@@ -70,7 +72,8 @@
 🔧 Me encanta desarrollar soluciones reales con impacto práctico.  
 🌱 Siempre estoy aprendiendo más sobre desarrollo full stack, DevOps e inteligencia artificial.  
 🤝 Actualmente colaboro en proyectos reales y código abierto.  
-⚡ Experiencia aplicando CI/CD con GitHub + Netlify para automatizar despliegues de proyectos.
+⚡ Experiencia aplicando CI/CD con GitHub + Netlify para automatizar despliegues de proyectos.  
+🔎 Manejo de Postman para probar y documentar APIs, validando endpoints y flujos de datos.  
 
 ---
 
@@ -90,6 +93,7 @@
 - Integración de IA en sistemas reales  
 - Aplicaciones educativas y de gestión  
 - Despliegues automatizados (CI/CD) con GitHub + Netlify  
+- Pruebas y documentación de APIs con Postman  
 
 ---
 
