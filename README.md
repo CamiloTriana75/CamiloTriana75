@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Camilo Triana 👋</h1>
-
 <p align="center">
   💻 Software Development Student • ⚙️ Backend & Automation Enthusiast • 🚀 Open Source Contributor
 </p>
@@ -7,94 +6,71 @@
 ---
 
 ## 🧩 About Me
-
-🇨🇴 I'm a passionate Colombian developer focused on building useful, real-world apps.  
-🎓 I'm currently studying software development and working on tools for business automation and process optimization.  
-🛠️ I love using technology to solve problems and make systems smarter.  
-🌱 Learning every day about full stack development, DevOps and artificial intelligence.  
-⚡ Experienced in automating deployments with GitHub + Netlify, applying CI/CD practices to streamline delivery.  
-🔎 Skilled in testing and documenting APIs using Postman for endpoints validation and workflow automation.  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [ProyectoElden](https://github.com/camilotriana/ProyectoElden)  
-> ⚽ A complete sports field reservation system built with React + Firebase + TailwindCSS  
-> 🔸 Real-time updates, admin panel, and user management.
-
-### 🔹 [Nomina-Empleados-NetBeans](https://github.com/camilotriana/Nomina-Empleados-NetBeans)  
-> 💼 Payroll management system built with Java and Swing  
-> 🔸 Simple but functional employee payroll calculator.
-
-### 🔹 [Juego-Snake](https://github.com/camilotriana/Juego-Snake)  
-> 🐍 Classic Snake Game developed in Python  
-> 🔸 Good introduction to event-driven logic and game loops.
-
-### 🔹 [Página Taylor y McLaurin](https://github.com/camilotriana/Pagina-web-calcular-series-de-taylor-y-Mclaurin)  
-> 🔢 Educational web app to calculate Taylor and McLaurin series  
-> 🔸 Pure HTML, CSS and mathematical logic in JavaScript.
+🇨🇴 Passionate Colombian developer focused on real-world apps.  
+🎓 Studying software development and building tools for business automation.  
+⚡ Experienced with CI/CD (GitHub + Netlify).  
+🔎 Skilled in API testing & docs using Postman.  
+🌱 Always learning full stack, DevOps and AI.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 👨‍💻 **Languages**: JavaScript, TypeScript, Python, C#, Java, HTML/CSS  
-- ⚙️ **Frameworks**: React, Node.js, Express, TailwindCSS  
-- 🗃️ **Databases**: Firebase, SQLite, PostgreSQL  
-- 🧰 **Tools**: Git, Docker, Linux, Vite, NetBeans, Visual Studio, Figma, **Postman**  
-- 🚀 **Deployment & CI/CD**: GitHub + Netlify (automated builds and deployments from repositories)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📌 Interests
+## 🚀 Featured Projects
 
-- 🧠 AI integration in business tools  
-- 🧾 Business process automation  
-- 🕹️ App development (web & desktop)  
-- 🔧 Building real solutions through software  
-- ⚡ Continuous Integration / Continuous Deployment (CI/CD) to automate delivery pipelines  
-- 🔎 API testing, validation and documentation with Postman  
+### ⚽ [ProyectoElden](https://github.com/camilotriana/ProyectoElden)  
+Real-time sports field reservation system built with React + Firebase + TailwindCSS.  
+<img src="https://github.com/CamiloTriana75/ProyectoElden/raw/main/preview.png" width="400"/>
+
+### 💼 [Nómina Empleados](https://github.com/camilotriana/Nomina-Empleados-NetBeans)  
+Payroll management system built with Java and Swing.
+
+### 🐍 [Juego Snake](https://github.com/camilotriana/Juego-Snake)  
+Classic Snake Game in Python.
+
+### 🔢 [Página Taylor y McLaurin](https://github.com/camilotriana/Pagina-web-calcular-series-de-taylor-y-Mclaurin)  
+Educational web app to calculate Taylor and McLaurin series.
+
+---
+
+## 📊 GitHub Stats
+
+![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloTriana75&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloTriana75&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CamiloTriana75&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📫 Contact
 
 - 🌐 Portfolio (coming soon)  
-- 🐙 GitHub: [@camilotriana](https://github.com/camilotriana)  
+- 🐙 GitHub: [@CamiloTriana75](https://github.com/CamiloTriana75)  
+- 💼 LinkedIn: [Tu perfil de LinkedIn]  
 - 📧 Email: jtriaha@gmail.com  
 
 ---
 
-### 👋 Hola, soy Camilo Triana
-
-🎓 Soy estudiante de desarrollo de software con enfoque en automatización, backend y herramientas de negocio.  
-🔧 Me encanta desarrollar soluciones reales con impacto práctico.  
-🌱 Siempre estoy aprendiendo más sobre desarrollo full stack, DevOps e inteligencia artificial.  
-🤝 Actualmente colaboro en proyectos reales y código abierto.  
-⚡ Experiencia aplicando CI/CD con GitHub + Netlify para automatizar despliegues de proyectos.  
-🔎 Manejo de Postman para probar y documentar APIs, validando endpoints y flujos de datos.  
-
----
-
-### 🚀 Proyectos Destacados
-
-- **ProyectoElden**: Sistema de reservas deportivas en tiempo real con React + Firebase  
-- **Nómina Empleados**: Calculadora de nómina simple usando Java y Swing  
-- **Juego Snake**: Juego clásico de Snake hecho en Python  
-- **Serie de Taylor y McLaurin**: Página web educativa para calcular series matemáticas  
-
----
-
-### 💡 Intereses y habilidades
-
-- Automatización de procesos empresariales  
-- Desarrollo full stack con herramientas modernas  
-- Integración de IA en sistemas reales  
-- Aplicaciones educativas y de gestión  
-- Despliegues automatizados (CI/CD) con GitHub + Netlify  
-- Pruebas y documentación de APIs con Postman  
-
----
-
-⭐ ¡Gracias por visitar mi perfil!
+⭐ Thanks for visiting my profile!
