@@ -66,9 +66,9 @@ Educational web app to calculate Taylor and McLaurin series.
 
 ## 📫 Contact
 
-- 🌐 Portfolio (coming soon)  
+- 🌐 Portfolio: https://camilotriana.netlify.app/ 
 - 🐙 GitHub: [@CamiloTriana75](https://github.com/CamiloTriana75)  
-- 💼 LinkedIn: [Tu perfil de LinkedIn]  
+- 💼 LinkedIn: https://www.linkedin.com/in/camilo-triana-868814238/
 - 📧 Email: jtriaha@gmail.com  
 
 ---
