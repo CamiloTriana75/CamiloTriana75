@@ -6,9 +6,6 @@
 <!-- Animated Coding GIF -->
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 
-<!-- Animated Coding GIF -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
-
 <!-- Dynamic Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Enterprise+Solutions+Architect+%E2%9A%A1;Backend+%26+Fleet+Management+Specialist+%F0%9F%9A%9B;Real-Time+Systems+Expert+%F0%9F%93%A1;AI+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
 
@@ -172,7 +169,9 @@ const camilo: Developer = {
 
 **Enterprise Fleet Management Platform**
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CamiloTriana75&repo=FlotaVehicular&theme=radical&hide_border=true&border_radius=10)](https://github.com/CamiloTriana75/FlotaVehicular)
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CamiloTriana75/FlotaVehicular)
+![Stars](https://img.shields.io/github/stars/CamiloTriana75/FlotaVehicular?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/CamiloTriana75/FlotaVehicular?style=flat-square&color=blue)
 
 **🎯 Highlights:**
 - 📡 Real-time GPS tracking (1000+ vehicles)
@@ -304,43 +303,21 @@ graph TD
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=CamiloTriana75&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloTriana75&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CamiloTriana75&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%"/>
+<br><br>
 
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloTriana75&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloTriana75&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=CamiloTriana75&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloTriana75&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=CamiloTriana75&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" width="49%" alt="Contributor Stats"/>
 
 ### 📊 **Contribution Activity**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloTriana75&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
-### 🏆 **Trophies**
+### 🏆 **GitHub Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=CamiloTriana75&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CamiloTriana75&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -452,7 +429,7 @@ Node.js      ██████████░░░░░░░░░░░░�
 
 ### 🎵 **Currently Listening**
 
-<a href="https://open.spotify.com/user/camilotriana">
+<a href="https://open.spotify.com/user/Juanamilotriana">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31piwklgohskj2jbafvrrdavpvuu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
 </a>
 
