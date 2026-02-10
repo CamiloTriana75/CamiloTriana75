@@ -1,354 +1,235 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Camilo%20Triana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- Dynamic Header with Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Camilo%20Triana&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Solutions%20Architect&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 
-# 👨‍💻 Full-Stack Developer | Enterprise Solutions Architect
+<!-- Animated Coding GIF -->
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;⚡+Enterprise+Solutions+Architect;🔧+Backend+%26+Fleet+Management+Specialist;🌐+Cloud+%26+Real-Time+Systems;🤖+AI+Integration+Specialist;💻+PostgreSQL+%26+Database+Optimization)](https://git.io/typing-svg)
+<!-- Dynamic Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Full-Stack+Developer+%F0%9F%9A%80;Enterprise+Solutions+Architect+%E2%9A%A1;Backend+%26+Fleet+Management+Specialist+%F0%9F%9A%9B;Real-Time+Systems+Expert+%F0%9F%93%A1;AI+Integration+Specialist+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
 
+<!-- Metrics Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CamiloTriana75&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/CamiloTriana75?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20Solutions-brightgreen?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=CamiloTriana75&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/CamiloTriana75?label=Followers&style=flat-square&color=00D9FF&labelColor=0D1117" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Solutions-00D9FF?style=flat-square&labelColor=0D1117" alt="focus" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=flat-square&labelColor=0D1117" alt="status" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=flat-square&labelColor=0D1117" alt="experience" />
 </p>
-
-<br>
 
 </div>
 
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-```yaml
-name: Camilo Triana
-location: Colombia 🇨🇴
-role: Full-Stack Developer & Enterprise Architect
-experience: Backend | Real-Time Systems | Fleet Management
-specialties:
 
-GPS-enabled Fleet Management Systems
-Backend Architecture & API Design
-Real-Time WebSocket Systems
-CI/CD Pipelines & DevOps
-AI Integration (n8n, DeepSeek, OpenRouter)
-Database Optimization (PostgreSQL)
+<br>
 
-currently_learning:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Who Am I?**
 
-Cloud Infrastructure (AWS / GCP)
-Machine Learning & MLOps
-Advanced DevOps Patterns
+<img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-open_to:
+```typescript
+const camilo: Developer = {
+  location: "🇨🇴 Colombia",
+  title: "Full-Stack Developer & Enterprise Architect",
+  company: "Open to Opportunities",
+  experience: "3+ years",
+  
+  expertise: {
+    backend: ["Node.js", "Express", "PostgreSQL", "Supabase"],
+    frontend: ["React", "TypeScript", "TailwindCSS", "Vite"],
+    realTime: ["WebSockets", "GPS Tracking", "Live Updates"],
+    devops: ["Docker", "CI/CD", "GitHub Actions", "Nginx"],
+    ai: ["n8n", "DeepSeek", "OpenRouter", "Automation"]
+  },
+  
+  specialization: [
+    "🚛 Fleet Management Systems (1000+ vehicles)",
+    "🏗️ Enterprise Backend Architecture",
+    "📡 Real-Time Data Processing",
+    "🗺️ Geolocation & Route Optimization",
+    "🔐 Security & RBAC Systems",
+    "💾 Complex Database Design (39+ tables)",
+    "🤖 AI Integration & Automation",
+    "⚡ High-Performance APIs"
+  ],
+  
+  currentFocus: [
+    "☁️ Cloud Infrastructure (AWS, Azure, GCP)",
+    "🧠 Machine Learning & MLOps",
+    "🐳 Kubernetes & Container Orchestration",
+    "🔗 Blockchain & Web3"
+  ],
+  
+  funFact: "I build systems that track 1000+ vehicles in real-time! 🚗💨"
+};
+```
 
-Enterprise Backend Projects
-Fleet & Logistics Platforms
-DevOps Consulting
-Remote Collaboration
+### 💡 **What Makes Me Different**
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Technical Excellence**
+- ✅ Write clean, maintainable code
+- ✅ 85%+ test coverage standard
+- ✅ Performance-first mindset
+- ✅ Security-aware development
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Collaboration & Communication**
+- ✅ Fluent in English & Spanish
+- ✅ Clear technical documentation
+- ✅ Agile/Scrum methodologies
+- ✅ Open to mentorship
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
----
-
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34"> Tech Stack
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Tech Arsenal**
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🎨 **Frontend Development**
 
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & Database
+### ⚙️ **Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🗄️ **Database & Backend Services**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🐳 DevOps & Cloud
+### 🐳 **DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🗺️ APIs & Integrations
+### 🗺️ **APIs & Integrations**
+
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-DF0000?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
----
-
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Project
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Featured Projects**
 
 <div align="center">
 
-### 🚛 FlotaVehicular v2.0.0
-**Enterprise Fleet Management System with Real-time GPS Monitoring**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CamiloTriana75&repo=FlotaVehicular&theme=tokyonight&hide_border=true&border_color=00D9FF)](https://github.com/CamiloTriana75/FlotaVehicular)
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Version](https://img.shields.io/badge/Version-2.0.0-orange?style=flat-square)
-![Built With](https://img.shields.io/badge/Built_With-React+Supabase-61DAFB?style=flat-square&logo=react)
+### 🌟 **FLAGSHIP PROJECT** 🌟
 
 </div>
 
-<details>
-<summary><b>🏗️ Architecture & Features (click to expand)</b></summary>
-
-<br>
-┌─────────────────────────────────────────────────────────┐
-│         FRONTEND (React 18.3 + TypeScript 5.5)         │
-│  ✓ 39 page components    ✓ 25+ reusable components     │
-│  ✓ Flux Pattern (Context + useReducer)                 │
-│  ✓ 100+ Lucide icons     ✓ TailwindCSS 3.4            │
-│  ✓ Vite 5.4 (ultra-fast builds)                       │
-└─────────────────────────────────────────────────────────┘
-↕ WebSocket + REST
-┌─────────────────────────────────────────────────────────┐
-│    BACKEND (Supabase - PostgreSQL 15+ Enterprise)      │
-│  ✓ 39 tables (normalized)  ✓ Row-Level Security       │
-│  ✓ Real-time subscriptions ✓ Edge Functions           │
-│  ✓ 20+ TypeScript services ✓ 10 roles w/ permissions │
-└─────────────────────────────────────────────────────────┘
-                          ↕
-       ┌────────────────────────────────────┐
-       │   External Integrations            │
-       ├────────────────────────────────────┤
-       │ • Mapbox API (route optimization) │
-       │ • Google Maps (GPS visualization) │
-       │ • n8n Cloud (IA workflows)        │
-       │ • DeepSeek v3.1 (AI chatbot)     │
-       │ • OpenRouter (LLM aggregator)    │
-       └────────────────────────────────────┘
-```
-
-#### 📊 **Database Schema** (39 Tables)
-
-<details>
-<summary><b>📂 Click to expand Database Structure</b></summary>
-<br>
-
-| Category | Tables | Description |
-|----------|--------|-------------|
-| **👥 Users & Auth** | `usuario`, `user_profiles` | Authentication & user management |
-| **🚗 Vehicles** | `vehicles`, `vehicle_locations`, `vehicle_assignments` | Fleet registry & GPS tracking |
-| **👤 Drivers** | `drivers`, `driver_licenses`, `driver_performance` | Driver management & KPIs |
-| **🛣️ Routes** | `routes`, `route_assignments`, `route_tracking`, `route_waypoint_checkins`, `route_events` | Route planning & optimization |
-| **⚠️ Alerts** | `alert_rules`, `alerts`, `alert_tracking` | Intelligent alert system |
-| **🚨 Incidents** | `incidents`, `incident_comments`, `incident_notifications` | Incident management & reporting |
-| **🔧 Maintenance** | `maintenance_orders`, `maintenance_rules`, `maintenance_history`, `maintenance_parts`, `maintenance_attachments` | Maintenance tracking |
-| **📍 Geofences** | `geofences`, `geofence_events`, `geofence_state` | Geographic zones |
-| **📊 Reports** | `report_templates`, `report_schedules`, `report_executions` | Reporting engine |
-| **⛽ Other** | `combustible`, `audit_logs` | Fuel & audit trail |
-
-</details>
-
-#### 👥 **Role-Based Access Control** (10 Roles)
-
-<details>
-<summary><b>🔐 Click to expand RBAC Matrix</b></summary>
-<br>
-
-| Role | Permissions | Primary Use Case |
-|------|-------------|------------------|
-| **🔑 Superuser** | ✅ Full system access | System administration |
-| **⚙️ Administrator** | ✅ User mgmt, Config, Backups | Company administration |
-| **📊 Manager** | ✅ Dashboard, Reports, Analytics | Business intelligence |
-| **👀 Supervisor** | ✅ Alerts, Incidents, Monitoring | Real-time operations |
-| **🗺️ Planner** | ✅ Routes, Assignments, Optimization | Route planning |
-| **🎮 Operator** | ✅ Monitoring, Alerts, Real-time control | Daily operations |
-| **🔧 Mechanic** | ✅ Maintenance orders, Work history | Fleet maintenance |
-| **👔 HR** | ✅ Drivers, Licenses, Users | Human resources |
-| **📈 Analyst** | ✅ Reports, Analytics, Data export | Data analysis |
-| **🚗 Driver** | ✅ My routes, Incident reporting | Driver operations |
-
-</details>
-
-#### 🚀 **Quick Start**
-
-<details>
-<summary><b>⚡ Click to expand Installation Guide</b></summary>
-<br>
-
-**📋 Prerequisites**
-```bash
-Node.js v18+  |  npm v9+  |  Git v2.30+
-Supabase Account  |  Google Maps API Key  |  Mapbox Token (optional)
-```
-
-**📦 Installation**
-```bash
-# Clone repository
-git clone https://github.com/camilotriana/FlotaVehicular.git
-cd FlotaVehicular
-
-# Install dependencies
-npm install
-
-# Configure environment variables
-cp .env.example .env.local
-# Edit .env.local with your credentials:
-# VITE_SUPABASE_URL=https://xxxx.supabase.co
-# VITE_SUPABASE_ANON_KEY=xxxx
-# VITE_GOOGLE_MAPS_KEY=xxxx
-# VITE_MAPBOX_ACCESS_TOKEN=xxxx
-
-# Setup database
-npm run migrate
-npm run seed
-node scripts/create-admin.js
-
-# Start development server
-npm run dev
-```
-
-**🎯 Demo Credentials**
-```
-Username: admin
-Password: admin123
-Role: Superuser
-```
-
-**🎬 First Steps**
-1. ⚙️ Settings → Change password
-2. 🏢 Settings → Configure company
-3. 🚗 Vehicles → Add vehicles
-4. 👤 Conductors → Register drivers
-5. 🛣️ Routes → Create routes
-6. 📊 Reports → Generate reports
-
-</details>
-
-#### 🧪 **Testing & Quality**
-
-<details>
-<summary><b>🔬 Click to expand Testing Suite</b></summary>
-<br>
-
-```bash
-# Unit tests
-npm run test
-
-# E2E tests (Playwright)
-npm run test:e2e
-
-# Coverage report
-npm run test:coverage
-
-# Linting
-npm run lint
-
-# Production build
-npm run build
-```
-
-**📈 Code Quality Metrics**
-- ✅ 85%+ Test Coverage
-- ✅ TypeScript Strict Mode
-- ✅ ESLint + Prettier
-- ✅ Zero ESLint Errors
-- ✅ Lighthouse Score: 95+
-
-</details>
-
-#### 📚 **Comprehensive Documentation**
-
-<details>
-<summary><b>📖 Click to expand Documentation Index</b></summary>
-<br>
-
-| Document | Content | Status |
-|----------|---------|--------|
-| **🏗️ ARQUITECTURA.md** | Complete system architecture | ✅ Complete |
-| **💾 DB_MODELO_FISICO.md** | ER diagram + 39 table specs | ✅ Complete |
-| **📋 CASOS_USO_DETALLADOS.md** | 18+ detailed use cases | ✅ Complete |
-| **⚙️ DB_SETUP.md** | Database initialization | ✅ Complete |
-| **🚀 GUIA_INICIO_RAPIDO.md** | Quick start guide | ✅ Complete |
-| **🧪 TESTING-E2E.md** | E2E testing guide | ✅ Complete |
-| **🔐 SECURITY.md** | Security best practices | 🔄 In Progress |
-| **🚢 DEPLOYMENT.md** | Deployment guide | 🔄 In Progress |
-
-</details>
-
-#### ✨ **Roadmap v3.0**
-
-<details>
-<summary><b>🗺️ Click to expand Future Features</b></summary>
-<br>
-
-- 📱 **Mobile App** - Native React Native app for iOS/Android
-- 🌡️ **IoT Integration** - Temperature, pressure, and fuel sensors
-- 🤖 **Predictive AI** - ML-based maintenance prediction
-- ⛓️ **Blockchain** - Immutable audit trail
-- 🌍 **Multi-language** - i18n support (EN, ES, PT)
-- 🌱 **Carbon Footprint** - Environmental impact dashboard
-- 💳 **Payment Integration** - Stripe/PayPal for invoicing
-- 📡 **5G Integration** - Ultra-low latency tracking
-- 🎙️ **Voice Commands** - Alexa/Google Assistant integration
-- 📊 **Advanced Analytics** - Power BI/Tableau integration
-
-</details>
-
----
-
-### 🎯 Other Notable Projects
-
-<table align="center">
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### ⚽ [ProyectoElden](https://github.com/camilotriana/ProyectoElden)
+### 🚛 **FlotaVehicular v2.0.0**
 
-Real-time sports field reservation system with advanced scheduling and payments.
+**Enterprise Fleet Management Platform**
 
-**Tech:** React • Firebase • TailwindCSS • Stripe
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=CamiloTriana75&repo=FlotaVehicular&theme=radical&hide_border=true&border_radius=10)](https://github.com/CamiloTriana75/FlotaVehicular)
 
-</td>
-<td width="50%">
+**🎯 Highlights:**
+- 📡 Real-time GPS tracking (1000+ vehicles)
+- 💾 39 normalized PostgreSQL tables
+- 🔐 10-tier RBAC system
+- 🤖 AI-powered chatbot (DeepSeek)
+- 🗺️ Route optimization (Mapbox)
+- ⚡ 30-second KPI updates
+- 📊 10+ reporting templates
 
-#### 💼 [Nómina Empleados](https://github.com/camilotriana/Nomina-Empleados-NetBeans)
-
-Complete payroll management system with automatic calculations and reporting.
-
-**Tech:** Java • Swing • MySQL
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🔢 [Series Calculator](https://github.com/camilotriana/Pagina-web-calcular-series-de-taylor-y-Mclaurin)
-
-Educational platform for computing Taylor and McLaurin series with visualizations.
-
-**Tech:** React • Math.js • D3.js
+**🛠️ Tech Stack:**
+`React 18` `TypeScript 5.5` `Supabase` `PostgreSQL` `TailwindCSS` `Vite` `Google Maps` `Mapbox` `n8n` `WebSockets`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+<br>
+
+**📊 System Architecture**
+
+```mermaid
+graph TD
+    A[React Frontend] -->|WebSocket| B[Supabase]
+    A -->|REST API| B
+    B -->|PostgreSQL| C[Database 39 Tables]
+    B -->|RLS| D[Row Level Security]
+    A -->|API| E[Mapbox Routes]
+    A -->|API| F[Google Maps GPS]
+    B -->|Webhooks| G[n8n Workflows]
+    G -->|AI| H[DeepSeek v3.1]
+```
+
+**📈 Key Features:**
+
+- ✅ **Real-Time Monitoring**: Live GPS tracking
+- ✅ **Smart Alerts**: 5 types, 4 severity levels
+- ✅ **Maintenance**: Preventive & corrective
+- ✅ **Analytics**: Custom reports & KPIs
+- ✅ **Geofencing**: Circular & polygon zones
+- ✅ **Driver Management**: License validation
+- ✅ **Incident Reporting**: Real-time tracking
+- ✅ **85%+ Test Coverage**
+
+<details>
+<summary>📚 <b>View Complete Documentation</b></summary>
+
+<br>
+
+| Document | Description |
+|----------|-------------|
+| 🏗️ **ARQUITECTURA.md** | Complete system architecture |
+| 💾 **DB_MODELO_FISICO.md** | ER diagram + 39 table specs |
+| 📋 **CASOS_USO_DETALLADOS.md** | 18+ detailed use cases |
+| 🚀 **GUIA_INICIO_RAPIDO.md** | Quick start guide |
+| 🧪 **TESTING-E2E.md** | E2E testing guide |
+
+</details>
 
 </td>
 </tr>
@@ -356,126 +237,202 @@ Educational platform for computing Taylor and McLaurin series with visualization
 
 ---
 
-## 📊 GitHub Analytics & Activity
+### 🎯 **Other Notable Projects**
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CamiloTriana75&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloTriana75&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+#### ⚽ **ProyectoElden**
+*Sports Field Booking Platform*
 
-</div>
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/camilotriana/ProyectoElden)
+
+**Stack:**
+`React` `Firebase` `TailwindCSS` `Stripe`
+
+**Features:**
+- 📅 Real-time booking system
+- 💳 Payment processing
+- 📊 Analytics dashboard
+- 🔔 Push notifications
+
+</td>
+<td width="33%" valign="top">
+
+#### 💼 **Nómina Empleados**
+*Payroll Management System*
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/camilotriana/Nomina-Empleados-NetBeans)
+
+**Stack:**
+`Java` `Swing` `MySQL` `JDBC`
+
+**Features:**
+- 💰 Automatic salary calculations
+- 📄 Tax computation
+- 📊 Report generation
+- 👥 Employee management
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔢 **Series Calculator**
+*Taylor & McLaurin Series*
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/camilotriana/Pagina-web-calcular-series-de-taylor-y-Mclaurin)
+
+**Stack:**
+`React` `Math.js` `D3.js` `Chart.js`
+
+**Features:**
+- 📐 Series computation
+- 📈 Interactive visualizations
+- 🎓 Educational tool
+- ⚡ Real-time calculations
+
+</td>
+</tr>
+</table>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloTriana75&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&exclude_repo=github-readme-stats" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=CamiloTriana75&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" />
-
-</div>
-
-<br>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloTriana75&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
-<br>
-
-### 🎯 Coding Statistics
-
-<div align="center">
-
-**💻 Tech Stack Distribution by Project Complexity**
-
-```text
-TypeScript   ████████████████░░░░░░░░  65% │ Enterprise Apps & APIs
-JavaScript   ██████████░░░░░░░░░░░░░░  40% │ Frontend & Automation
-React        ████████████░░░░░░░░░░░░  50% │ UI Components & SPA
-PostgreSQL   ████████░░░░░░░░░░░░░░░░  35% │ Database Design
-Python       ██████░░░░░░░░░░░░░░░░░░  25% │ Scripts & ML
-Node.js      ██████████░░░░░░░░░░░░░░  42% │ Backend Services
-```
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CamiloTriana75&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" />
-
-</div>
-
-<br>
-
-### 🎖️ Notable Accomplishments
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Analytics**
 
 <div align="center">
 
 <table>
 <tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CamiloTriana75&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloTriana75&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloTriana75&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=CamiloTriana75&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 📊 **Contribution Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloTriana75&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+
+### 🏆 **Trophies**
+
+<img src="https://github-profile-trophy.vercel.app/?username=CamiloTriana75&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📊 **Coding Activity**
+
+<div align="center">
+
+### **💻 Tech Stack Usage**
+
+```text
+TypeScript   ████████████████░░░░░░░░  65%  │ Enterprise Apps & APIs
+JavaScript   ██████████░░░░░░░░░░░░░░  40%  │ Frontend & Automation
+React        ████████████░░░░░░░░░░░░  50%  │ UI Components & SPA
+PostgreSQL   ████████░░░░░░░░░░░░░░░░  35%  │ Database Architecture
+Python       ██████░░░░░░░░░░░░░░░░░░  25%  │ Scripts & ML
+Node.js      ██████████░░░░░░░░░░░░░░  42%  │ Backend Services
+```
+
+### **🎯 Development Stats**
+
+<table>
+<tr>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80" height="80"/><br>
-<b>🚀 Production Apps</b><br>
-<sub>3+ Enterprise Systems</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/><br>
+<b>🚀 Production</b><br>
+<sub>3+ Systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" height="80"/><br>
-<b>💻 Code Commits</b><br>
-<sub>2000+ Contributions</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60"/><br>
+<b>💻 Commits</b><br>
+<sub>2000+</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" height="80"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60"/><br>
 <b>🔧 Technologies</b><br>
-<sub>15+ Tech Stack</sub>
+<sub>15+ Stack</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="80" height="80"/><br>
-<b>⭐ GitHub Stars</b><br>
-<sub>Growing Community</sub>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="60"/><br>
+<b>⭐ Stars</b><br>
+<sub>Growing</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
----
-
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="https://camilotriana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/></a>
-<a href="https://github.com/CamiloTriana75"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/camilo-triana-868814238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jtriaha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-**💼 Open to:**
-`Enterprise Solutions` • `Backend Architecture` • `Fleet Management Systems` • `DevOps Consulting` • `Remote Work`
 
 <br>
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3DE8,50:0066FF,100:00D9FF&height=120&section=footer"/>
-
-</div>
-
----
+## 🤝 **Connect With Me**
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<a href="https://camilotriana.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+</a>
+<a href="https://github.com/CamiloTriana75" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/camilo-triana-868814238/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jtriaha@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**💼 Open For Opportunities:**
+
+<img src="https://img.shields.io/badge/Enterprise_Solutions-00D9FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend_Architecture-00D9FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fleet_Management-00D9FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps_Consulting-00D9FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Remote_Work-00D9FF?style=flat-square&logoColor=white"/>
+
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🐍 **Contribution Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CamiloTriana75/CamiloTriana75/output/github-contribution-grid-snake-dark.svg">
@@ -483,41 +440,42 @@ Node.js      ██████████░░░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CamiloTriana75/CamiloTriana75/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>🔄 The snake is eating my contributions! To generate this for your profile, check out <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+<sub>🔄 *Animated snake showing my GitHub contributions*</sub>
 
 ---
 
-### 💡 Random Dev Quote
+### 💡 **Random Dev Quote**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" />
 
 ---
 
-### 🎵 Currently Listening To
+### 🎵 **Currently Listening**
 
-<div align="center">
-  <a href="https://open.spotify.com/user/camilotriana">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31piwklgohskj2jbafvrrdavpvuu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
+<a href="https://open.spotify.com/user/camilotriana">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31piwklgohskj2jbafvrrdavpvuu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+</a>
 
-<sub>🎧 Click to view my Spotify profile | Real-time music stats powered by Spotify API</sub>
+<sub>🎧 *Real-time music stats powered by Spotify*</sub>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-### 🌟 Show Your Support
+### ⭐ **Show Your Support**
 
-<p align="center">
-  <b>⭐ If you find my projects interesting, please consider starring them!</b><br>
-  <b>💼 Open to collaboration on enterprise solutions and innovative projects</b>
-</p>
+**If you find my work interesting, please consider:**
+- ⭐ Starring my repositories
+- 🤝 Connecting on LinkedIn
+- 💼 Reaching out for collaboration
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon-00D9FF?style=for-the-badge" />
-</p>
+<br>
 
-*Last updated: February 10, 2026 • Made with 💙 by Camilo Triana*
+<img src="https://img.shields.io/badge/Thanks_for_visiting!-Come_back_soon-00D9FF?style=for-the-badge&logo=smile&logoColor=white"/>
+
+<br>
+
+*Last updated: February 10, 2026 | Made with 💙 & ☕ by Camilo Triana*
 
 </div>
