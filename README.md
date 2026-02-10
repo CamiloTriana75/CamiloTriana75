@@ -429,7 +429,7 @@ Node.js      ██████████░░░░░░░░░░░░�
 
 ### 🎵 **Currently Listening**
 
-<a href="https://open.spotify.com/user/Juanamilotriana">
+<a href="https://open.spotify.com/user/JuanCamiloTriana">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31piwklgohskj2jbafvrrdavpvuu&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
 </a>
 
